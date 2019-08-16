@@ -334,7 +334,6 @@ do
   end
 end
 
-
 local poll_wait_health
 local poll_wait_address_health
 do
